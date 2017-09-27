@@ -1,4 +1,4 @@
-# FastText 在 python 下的实现
+## FastText 在 python 下的实现
 
 ---
 
